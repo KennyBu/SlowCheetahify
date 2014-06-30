@@ -1,0 +1,5 @@
+C:\temp\SlowCheetahify\SlowCheetahifyConsole\bin\Release\SlowCheetahifyConsole.exe.config
+C:\temp\SlowCheetahify\SlowCheetahifyConsole\bin\Release\SlowCheetahifyConsole.exe
+C:\temp\SlowCheetahify\SlowCheetahifyConsole\bin\Release\SlowCheetahifyConsole.pdb
+C:\temp\SlowCheetahify\SlowCheetahifyConsole\obj\Release\SlowCheetahifyConsole.exe
+C:\temp\SlowCheetahify\SlowCheetahifyConsole\obj\Release\SlowCheetahifyConsole.pdb
